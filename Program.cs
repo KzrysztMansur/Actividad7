@@ -1,4 +1,4 @@
-using actividad7.Models;
+using actividad7.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

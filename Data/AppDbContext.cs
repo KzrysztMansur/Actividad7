@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using actividad7.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Reflection.Emit;
 
-namespace actividad7.Models
+namespace actividad7.Data
 {
     public class AppDbContext : DbContext
     {
