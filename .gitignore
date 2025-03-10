@@ -1,0 +1,43 @@
+## Ignore the build output
+bin/
+obj/
+
+## User-specific files
+.vs/
+.vscode/
+.idea/
+
+## ASP.NET Core settings files
+appsettings.Development.json
+appsettings.Production.json
+
+## User-specific Visual Studio files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer Files (for .NET Core SDK)
+*.vstemplate
+
+## ASP.NET Core / Visual Studio for Mac config files
+.vscode/
+.idea/
+
+## npm/yarn
+node_modules/
+
+## JetBrains Rider config files
+.idea/
+
+## macOS Finder files
+.DS_Store
+
+## Windows Installer Files
+Thumbs.db
